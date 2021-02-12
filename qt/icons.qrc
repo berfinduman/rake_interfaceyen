@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/left.png</file>
+    <file>icons/right.png</file>
+    <file>icons/png-transparent-black-line-illustration-plus-and-minus-signs-computer-icons-plus-minus-sign-meno-symbol-minus.png</file>
+    <file>icons/png-transparent-computer-icons-symbol-plus-icon-miscellaneous-plus-cross-thumbnail.png</file>
+    <file>icons/cam.png</file>
+    <file>icons/rake.jpg</file>
+    <file>icons/yesilbtn.jpg</file>
+    <file>icons/kırmızıbuton.jpg</file>
+  </qresource>
+</RCC>

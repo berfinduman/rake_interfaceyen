@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="photos">
+    <file>others/visualizing_collisions_tutorial_screen.png</file>
+    <file>others/Simulation-of-Engineer-main-body-in-Gazebo-left-and-in-RViz-right-Imaginary-wheels.png</file>
+    <file>others/screen-2.jpg</file>
+    <file>others/itü-rake-robotik-.jpg</file>
+    <file>others/itü-rake-robotik-.jpg</file>
+    <file>others/Mapping.png</file>
+    <file>others/walle_3.jpg</file>
+    <file>others/logo.png</file>
+    <file>others/walle_2.jpg</file>
+  </qresource>
+</RCC>
